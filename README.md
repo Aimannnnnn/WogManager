@@ -2,13 +2,13 @@
 
 **[English](#english) · [Italiano](#italiano) · [中文](#中文)**
 
-<img alt="WoG Manager: overview" src="https://github.com/user-attachments/assets/35e33811-00a0-4bf0-9894-5e3be8f04dd4" />
+<img alt="WoG Manager: overview" src="screenshots/v1.30/overview.jpg" />
 
 <table>
   <tr>
-    <td><img alt="Gear and stats" src="https://github.com/user-attachments/assets/9030d8e8-b5a6-414f-8c51-b0a2de29f883" /></td>
-    <td><img alt="Training" src="https://github.com/user-attachments/assets/f5334f3c-1040-400f-8347-5db365b44a56" /></td>
-    <td><img alt="Stats" src="https://github.com/user-attachments/assets/8b8652ec-5615-4119-aae6-6531de93f2da" /></td>
+    <td><img alt="Gear and stats" src="screenshots/v1.30/gear-and-skin.jpg" /></td>
+    <td><img alt="Training" src="screenshots/v1.30/training.jpg" /></td>
+    <td><img alt="Stats" src="screenshots/v1.30/stats.jpg" /></td>
   </tr>
 </table>
 
