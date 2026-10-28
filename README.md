@@ -2,6 +2,8 @@
 
 **[English](#english) · [Italiano](#italiano) · [中文](#中文)**
 
+💎 **Want the Supporter features?** → [How to become a Supporter](#how-to-become-a-supporter)
+
 <img alt="WoG Manager: overview" src="screenshots/v1.30/overview.jpg" />
 
 <table>
@@ -34,6 +36,17 @@ game's own buttons**: no simulated clicks.
 
 Some features are for **💎 supporters** (full fusion of every tier, pets/wings/runes, best hero, auto Dungeon and
 Arena, all Telegram alerts, the Steam tab…). Everything else is free.
+
+### How to become a Supporter
+
+A **small one-time donation** unlocks the 💎 features.
+
+1. Join our Discord: [Secret Library](https://discord.gg/xUbAa4FdUQ)
+2. Go to **#get-key** and click the button to open a ticket
+3. We reply in the ticket and send you your key
+4. In WoG Manager open **Settings → Supporter** and paste the key
+
+We never DM you first – keys only come from a ticket.
 
 **Install**
 
@@ -70,6 +83,17 @@ bottoni del gioco**: niente clic simulati.
 Alcune funzioni sono per i **💎 supporter** (fusione completa di tutti i tier, pet/ali/rune, eroe migliore, Dungeon
 e Arena automatici, tutti gli avvisi Telegram, la scheda Steam…). Tutto il resto è gratis.
 
+### Come diventare supporter
+
+Con una **piccola donazione, una volta sola**, sblocchi le funzioni 💎.
+
+1. Entra nel nostro Discord: [Secret Library](https://discord.gg/xUbAa4FdUQ)
+2. Vai in **#get-key** e clicca il bottone per aprire un ticket
+3. Ti rispondiamo nel ticket e ti mandiamo la chiave
+4. In WoG Manager apri **Impostazioni → Supporter** e incolla la chiave
+
+Non ti scriviamo mai noi per primi in privato: le chiavi arrivano solo da un ticket.
+
 **Come si installa**
 
 1. Apri [Releases](../../releases/latest) e scarica **WoGManager-Setup-vX.Y.exe**.
@@ -104,6 +128,17 @@ Questo repository contiene solo le versioni da scaricare (installer firmati e no
 
 部分功能仅限 **💎 supporter**（所有 tier 的完整合成、宠物/翅膀/符文、最佳英雄、自动 Dungeon 和 Arena、
 全部 Telegram 提醒、Steam 页面……）。其余功能全部免费。
+
+### 如何成为 Supporter
+
+**一次性小额捐助**即可解锁 💎 功能。
+
+1. 加入我们的 Discord：[Secret Library](https://discord.gg/xUbAa4FdUQ)
+2. 进入 **#get-key** 频道，点击按钮开一个工单（ticket）
+3. 我们会在工单里回复你，并把 key 发给你
+4. 在 WoG Manager 中打开 **设置 → Supporter**，粘贴 key 即可
+
+我们绝不会主动私信你：key 只会通过工单发放。
 
 **安装**
 
